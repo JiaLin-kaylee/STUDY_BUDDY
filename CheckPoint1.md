@@ -59,28 +59,6 @@ I’ve begun exploring and adapting movement code from the USC Blossom database.
 
 ---
 
-## 🔊 **New Feature: Sound Mechanism**
-I decided to add a **sound mechanism** to enhance interaction and grounding. Sound can help students with ADHD refocus, feel acknowledged, or calm down depending on tone and timing.
-
-### **Why Sound Matters**
-- Provides non-visual cues  
-- Reinforces interaction loops  
-- Supports emotional expression  
-- Helps regulate attention  
-
-### **Sound Hardware Options I’m Considering**
-1. **DFPlayer Mini** — plays MP3 files (breathing sounds, chimes)  
-2. **Piezo Buzzer** — simple tones for feedback  
-3. **I2S Speaker (ESP32)** — high-quality audio for expressive sound  
-
-### **Integration Considerations**
-- Sound opening in the crochet body  
-- Avoiding muffling from polyfill  
-- Syncing sound with movement (e.g., breathing + soft hum)  
-- Managing electrical noise from motors  
-
----
-
 ## 🎯 **Goals Before the USC Visit (May 13)**
 
 ### **What I will have ready to share**
